@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: mydkzgj@gmail.com
 description: "乱七八糟，一塌糊涂 | 明玥当空，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Mydkzgj明玥当空 的个人博客，与你一起发现更大的世界。"
 keyword: "mydkzgj, 明玥当空的博客, Mydkzgj Blog, 博客, 个人网站"
-url: "https://mydkzgj.me" #? "https://huangxuan.me"             # your host, for absolute URL
+url: "https://mydkzgj.github.io" #? "https://huangxuan.me"             # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -78,7 +78,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "明玥当空，好风无限."
+sidebar-about-description: "倚筝天波观浩渺，苍音掀涛洗星辰。白虹贯日荡魔寇，明玥当空照古今。"
 sidebar-avatar: #/img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
