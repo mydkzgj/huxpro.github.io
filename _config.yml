@@ -3,7 +3,7 @@ title: Mydkzgj Blog
 SEOTitle: 明玥当空的博客 | Mydkzgj Blog
 header-img: img/home-bg.jpg
 email: mydkzgj@gmail.com
-description: "乱七八糟，一塌糊涂 | 明玥当空，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Mydkzgj明玥当空 的个人博客，与你一起发现更大的世界。"
+description: "乱七八糟，一塌糊涂 | 明玥当空 | 这里是 @Mydkzgj明玥当空 的个人博客，与你一起发现更大的世界。"
 keyword: "mydkzgj, 明玥当空的博客, Mydkzgj Blog, 博客, 个人网站"
 url: "https://mydkzgj.github.io" #? "https://huangxuan.me"             # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     None #huxpro
-zhihu_username:     None #huxpro
+weibo_username:     #None #huxpro
+zhihu_username:     #None #huxpro
 github_username:    mydkzgj #huxpro
-twitter_username:   None #huxpro
+twitter_username:   #None #huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
